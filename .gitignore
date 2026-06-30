@@ -1,0 +1,14 @@
+# OS関連
+.DS_Store
+Thumbs.db
+
+# 環境関連
+.env
+*.log
+
+# Pythonの場合（後で使うかも）
+__pycache__/
+*.pyc
+
+# Node.jsの場合
+node_modules/
